@@ -1,13 +1,18 @@
-# **Full-Stack Sequelize Template**
-this template is meant to get you up-and-running with a full-stack web application scaffolded out and ready to run using node, express, and sequelize.  happy coding.
+# NBA Web Application
 
-### **Useful Features**
-* 'dotenv' environmental variables package configured for sequelize
-* nodemon package configured
-* ESlint package configured for Airbnb styleguide
-* heroku-deployment ready
-* instructions to create separate development and production databases
-* instructions for migrating and seeding databases
+## Link to the live application deployed on Heroku
+
+https://nbaproject2.herokuapp.com/
+
+<img source="images/Nba_project_thumbnail.PNG" height="300">
+
+### Schedules
+
+<img source="images/Nba_project_project1.PNG" height="300">
+
+### News
+
+<img source="images/Nba_project_project2.PNG" height="300">
 
 ### **How to Use This Template**
 * click "use template" next to the clone button, this will create a new repository on *your* github account
