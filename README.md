@@ -4,15 +4,15 @@
 
 https://nbaproject2.herokuapp.com/
 
-<img source="images/Nba_project_thumbnail.PNG" height="300">
+<img src="images/Nba_project_thumbnail.PNG" height="300">
 
 ### Schedules
 
-<img source="images/Nba_project_project1.PNG" height="300">
+<img src="images/Nba_project_project1.PNG" height="300">
 
 ### News
 
-<img source="images/Nba_project_project2.PNG" height="300">
+<img src="images/Nba_project_project2.PNG" height="300">
 
 ### **How to Use This Template**
 * click "use template" next to the clone button, this will create a new repository on *your* github account
