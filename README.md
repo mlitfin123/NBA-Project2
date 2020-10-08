@@ -18,8 +18,6 @@ https://nbaproject2.herokuapp.com/
 
 * This web application displays various upcoming NBA news and schedules for the teams across the league. The user can navigate through various team schedules and the scores for the day in addition to communicating through a public chat with other NBA fans watching the same scores.
 
-![image](./public/assets/images/dotenv.png)
-
 ### Usage
 * click "use template" next to the clone button, this will create a new repository on your github account
 * clone the repository down to your machine
